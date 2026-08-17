@@ -88,3 +88,40 @@ Additional sections:
 ## Conclusion
 
 LearnHub aims to provide a simple and effective mobile learning platform that connects learners with useful training opportunities.
+
+## Week 2 Functional UI Prototype
+
+LearnHub was upgraded during Week 2 into a functional interactive UI prototype.
+
+### Functional Screens
+
+- Login Screen
+- Home Dashboard
+- Program Listing Screen
+- Program Details Screen
+- My Progress Screen
+- Learner Profile Screen
+
+### Navigation Flow
+
+Login → Home → Programs → Program Details
+
+The application also provides bottom navigation between:
+
+- Home
+- Programs
+- Progress
+- Profile
+
+### Week 2 Improvements
+
+- Functional navigation between screens
+- Consistent LearnHub branding
+- Program listing and program details
+- Interactive login flow
+- Learner progress tracking
+- Learner profile section
+
+### Demo
+
+A 2–3 minute screen recording demonstrates navigation between the four required Week 2 screens.
