@@ -127,9 +127,6 @@ The application also provides bottom navigation between:
 A 2–3 minute screen recording demonstrates navigation between the four required Week 2 screens.
 # LearnHub 📚
 
-## Week 3 Development Update
-
-During Week 3, LearnHub was updated from a primarily static application into a more functional and intarning progress, register for programs, and submit feedback.
 
 ## Week 3 Development Update
 
