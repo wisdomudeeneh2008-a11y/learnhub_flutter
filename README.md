@@ -125,3 +125,145 @@ The application also provides bottom navigation between:
 ### Demo
 
 A 2–3 minute screen recording demonstrates navigation between the four required Week 2 screens.
+# LearnHub 📚
+
+## Week 3 Development Update
+
+During Week 3, LearnHub was updated from a primarily static application into a more functional and intarning progress, register for programs, and submit feedback.
+
+## Week 3 Development Update
+
+During Week 3, LearnHub was updated from a primarily static application into a more functional and interactive Flutter application.
+
+### What I Implemented
+
+#### 1. Program Data
+
+Program information is loaded from JSON data instead of being individually hardcoded into the UI.
+
+The program data includes:
+
+- Program title
+- Category
+- Instructor
+- Duration
+- Difficulty level
+- Description
+- Progress percentage
+
+The application currently contains programs such as:
+
+- Flutter Development
+- UI/UX Design
+- Web Development
+- Data Analysis
+
+#### 2. Program Listing
+
+The Programs screen displays the available learning programs dynamically.
+
+Each program card displays:
+
+- Program title
+- Description
+- Category
+- Duration
+- Level
+- Current progress
+- View Details option
+
+#### 3. Program Details
+
+Users can select a program to view more information.
+
+The Program Details screen displays:
+
+- Program title
+- Category
+- Program description
+- Instructor
+- Duration
+- Level
+- Current progress
+- Registration option
+
+#### 4. Registration Form
+
+A registration form was added to allow users to register for a program.
+
+The form collects:
+
+- Full name
+- Email address
+- Phone number
+
+Form validation was also implemented to ensure required fields are completed before submission.
+
+#### 5. Feedback Form
+
+A feedback screen was added so users can submit feedback about the application.
+
+The form includes validation and provides feedback to the user after submission.
+
+#### 6. Loading and Error Handling
+
+Loading states were implemented while program data is being retrieved.
+
+Error handling was also added so that users receive an appropriate message if program data cannot be loaded, together with an option to retry.
+
+#### 7. Progress Screen
+
+A Progress screen was implemented to display the learner's overall progress and individual program progress.
+
+Progress is displayed visually using progress indicators.
+
+#### 8. Profile Screen
+
+A Profile screen was added to provide a simple learner profile interface.
+
+It includes options such as:
+
+- Personal Information
+- Notifications
+- Send Feedback
+
+## Technologies Used
+
+- Flutter
+- Dart
+- Material Design
+- JSON
+- Flutter Form Validation
+
+## Key Learning Outcomes
+
+During Week 3, I learned how to:
+
+- Work with JSON data in Flutter.
+- Convert JSON data into Dart models.
+- Build forms and validate user input.
+- Handle loading states.
+- Implement error handling.
+- Navigate between multiple screens.
+- Display dynamic data in Flutter widgets.
+- Create interactive user experiences.
+- Document development work using GitHub.
+
+## Current Application Features
+
+- Program listing
+- Program details
+- Program progress tracking
+- Registration form
+- Feedback form
+- Form validation
+- Loading state
+- Error handling
+- Profile screen
+- Bottom navigation
+
+## Week 3 Status
+
+The application is functional and successfully runs in Flutter.
+
+The Week 3 implementation focuses on transforming LearnHub from static screens into an interactive application with dynamic program data, forms, validation, navigation, and user feedback.
